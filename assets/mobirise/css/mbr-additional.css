@@ -1284,50 +1284,32 @@ a {
 .cid-sFGJrLtt3K .mbr-section-subtitle {
   color: #000000;
 }
-.cid-sFGJsyrALx {
+.cid-uvpKXPcCVP {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #232323;
+  background: #ffffff;
 }
-.cid-sFGJsyrALx .image-wrapper {
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-  margin-top: 5px;
-  margin-right: 1rem;
-  overflow: hidden;
+.cid-uvpKXPcCVP .mbr-fallback-image.disabled {
+  display: none;
 }
-.cid-sFGJsyrALx .image-wrapper img {
-  height: 100%;
+.cid-uvpKXPcCVP .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
   width: 100%;
-  object-fit: cover;
+  height: 100%;
+  position: absolute;
+  top: 0;
 }
-.cid-sFGJsyrALx .mbr-section-title {
-  color: #379683;
-}
-.cid-sFGJsyrALx .mbr-text {
-  color: #bbbbbb;
-}
-.cid-sFGJsyrALx .name {
-  color: #bbbbbb;
-}
-.cid-sFGJsyrALx .position {
-  color: #bbbbbb;
-}
-.cid-sFGDeCn4OW {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #353535;
-}
-.cid-sFGDeCn4OW .google-map {
-  height: 350px;
+.cid-uvpKXPcCVP .google-map {
+  height: 30rem;
   position: relative;
 }
-.cid-sFGDeCn4OW .google-map iframe {
+.cid-uvpKXPcCVP .google-map iframe {
   height: 100%;
   width: 100%;
 }
-.cid-sFGDeCn4OW .google-map [data-state-details] {
+.cid-uvpKXPcCVP .google-map [data-state-details] {
   color: #6b6763;
   height: 1.5em;
   margin-top: -0.75em;
@@ -1338,17 +1320,11 @@ a {
   top: 50%;
   width: 100%;
 }
-.cid-sFGDeCn4OW .google-map[data-state] {
+.cid-uvpKXPcCVP .google-map[data-state] {
   background: #e9e5dc;
 }
-.cid-sFGDeCn4OW .google-map[data-state="loading"] [data-state-details] {
+.cid-uvpKXPcCVP .google-map[data-state="loading"] [data-state-details] {
   display: none;
-}
-.cid-sFGDeCn4OW .mbr-section-title {
-  color: #c37a7a;
-}
-.cid-sFGDeCn4OW .mbr-section-subtitle {
-  color: #bbbbbb;
 }
 .cid-sFGDg6hy8z {
   padding-top: 5rem;
